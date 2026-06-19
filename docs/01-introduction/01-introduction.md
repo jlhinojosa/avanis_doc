@@ -20,7 +20,8 @@ The primary goal of this application is to provide users with a clear, intuitive
 
 ---
 
-## [Architecture Overview](../architecture/introduction)
+## [Architecture Overview]
+{/* (../architecture/introduction) */}
 
 The platform follows a layered and modular architecture:
 
