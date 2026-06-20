@@ -1,7 +1,3 @@
----
-  sidebar_label: Welcome to Avanis
----
-
 # Welcome to Avanis
 
 Welcome to the Avanis project documentation. This guide provides information about the project structure, architecture, and how to contribute.
