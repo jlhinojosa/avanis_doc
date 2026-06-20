@@ -1,9 +1,9 @@
 {
-    "label": "Introduction",
+    "label": "Deployment",
     "collapsible": true,
     "collapsed": true,
     "link": {
         "type": "doc",
-        "id": "introduction/introduction"
+        "id": "deployment/introduction"
     }
 }
